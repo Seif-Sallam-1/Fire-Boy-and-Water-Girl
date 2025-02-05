@@ -34,7 +34,7 @@ Setup Instructions
 
 Clone the repository or download the project files.
 
-git clone https://github.com/your-username/fireboy-and-watergirl.git
+git clone (https://github.com/Seif-Sallam-1/Fire-Boy-Water-Girl)
 
 Ensure you have the required software installed.
 
