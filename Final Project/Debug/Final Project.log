@@ -1,0 +1,104 @@
+﻿  Diffculties.cpp
+  Final Project.cpp
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(164,24): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(164,24): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(164,24): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(164,24): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(164,24): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(165,26): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(165,26): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(165,26): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(165,26): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(165,26): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(175,24): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(175,24): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(175,24): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(175,24): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(175,24): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(176,27): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(176,27): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(176,27): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(176,27): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(176,27): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(177,26): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(177,26): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(177,26): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(177,26): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(177,26): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(187,24): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(187,24): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(187,24): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(187,24): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(187,24): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(188,26): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(188,26): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(188,26): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(188,26): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(188,26): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(198,24): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(198,24): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(198,24): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(198,24): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(198,24): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(199,26): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(199,26): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(199,26): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(199,26): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(199,26): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(224,24): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(224,24): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(224,24): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(224,24): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(224,24): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(225,26): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(225,26): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(225,26): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(225,26): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(225,26): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(235,24): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(235,24): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(235,24): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(235,24): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(235,24): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(236,27): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(236,27): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(236,27): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(236,27): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(236,27): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(237,26): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(237,26): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(237,26): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(237,26): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(237,26): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(248,26): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(248,26): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(248,26): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(248,26): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(248,26): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(258,24): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(258,24): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(258,24): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(258,24): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(258,24): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(259,27): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(259,27): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(259,27): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(259,27): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(259,27): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(260,26): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(260,26): warning C4244:         with
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(260,26): warning C4244:         [
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(260,26): warning C4244:             T=int
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(260,26): warning C4244:         ]
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(437,22): warning C4018: '<': signed/unsigned mismatch
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(439,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(459,25): warning C4018: '<': signed/unsigned mismatch
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(466,25): warning C4018: '<': signed/unsigned mismatch
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(746,22): warning C4018: '<': signed/unsigned mismatch
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(767,22): warning C4018: '<': signed/unsigned mismatch
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(1428,22): warning C4018: '<': signed/unsigned mismatch
+D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Final Project\Final Project.cpp(1448,22): warning C4018: '<': signed/unsigned mismatch
+  menu.cpp
+  Generating Code...
+  LINK : D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Debug\Final Project.exe not found or not built by the last incremental link; performing full link
+  Final Project.vcxproj -> D:\UNI life\1st Semester\Computer Programming\Final_Project[1]\Final Project\Debug\Final Project.exe
